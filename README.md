@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BoraBorda
+- 👀 I’m interested in learning the fundamentals of programming and developing my knowledge
+- 🌱 I’m currently learning Python & C. I am currently taking CS50 through EdX.
+- 💞️ I’m looking to collaborate on nothing right now. I am not project ready lol.
+- 📫 How to reach me: ryanwborda@gmail.com
